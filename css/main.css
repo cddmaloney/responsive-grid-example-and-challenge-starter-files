@@ -12,19 +12,18 @@ main .row {
   padding-top: 30px;
 }
 
-.black {
-  background-color: black;
-  color: white;
-}
-
-.green {
-  background-color: green;
-}
-
 .orange {
   background-color: orange;
 }
 
-.blue {
-  background-color: blue;
+.hotpink {
+  background-color: hotpink;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.grey {
+  background-color: grey;
 }
